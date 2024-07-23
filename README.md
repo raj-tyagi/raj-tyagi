@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 - Enhancing my skills in Android application development.
 - Developing new and innovative projects using Kotlin and Python.
 
-## 🌱 I’m currently learning ...
+<## 🌱 I’m currently learning ...
 - Advanced data structures and algorithms.
 - New frameworks and libraries to enhance my development skills.
-
+>
 ## 👯 I’m looking to collaborate on ...
 - Open-source Android applications.
 - Interesting projects that involve innovative problem-solving techniques.

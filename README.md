@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 📞 **Phone:** +91 7982044739  
 🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [HackerRank](https://www.hackerrank.com/your-profile) | [Leetcode](https://leetcode.com/your-profile) | [Codechef](https://www.codechef.com/users/your-profile) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/your-profile) | [GitHub](https://github.com/your-username)
 
-![Profile views](https://gpvc.arturio.dev/raj-tyagi)  
-![GitHub followers](https://img.shields.io/github/followers/raj-tyagi?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/raj-tyagi?label=Stars&style=social)
+
 
 
 ## 🔭 I’m currently working on ...
@@ -57,5 +55,5 @@ Here are some ideas to get you started:
 ## ⚡ Fun fact:
 - I love exploring new technologies and often find myself diving deep into learning new programming languages and frameworks.
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-tyagi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-tyagi&layout=compact)
+
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-tyagi&layout=compact)

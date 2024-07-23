@@ -56,5 +56,3 @@ Here are some ideas to get you started:
 ## ⚡ Fun fact:
 - I love exploring new technologies and often find myself diving deep into learning new programming languages and frameworks.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)

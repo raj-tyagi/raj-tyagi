@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 📍 **Location:** Noida, India  
 📧 **Email:** [rajtyagi307@gmail.com](mailto:rajtyagi307@gmail.com)  
-📞 **Phone:** +91 7982044739  
 🔗 **Links:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [HackerRank](https://www.hackerrank.com/your-profile) | [Leetcode](https://leetcode.com/your-profile) | [Codechef](https://www.codechef.com/users/your-profile) | [GeeksForGeeks](https://auth.geeksforgeeks.org/user/your-profile) | [GitHub](https://github.com/your-username)
 
 

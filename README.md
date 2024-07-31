@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 - Email: [rajtyagi307@gmail.com](mailto:rajtyagi307@gmail.com)
+- LinkedIn : [Raj Tyagi](https://www.linkedin.com/in/raj-tyagi-83765b21b/)
+- GitHub: [raj-tyagi](https://github.com/raj-tyagi)
 
 
 ## 😄 Pronouns:

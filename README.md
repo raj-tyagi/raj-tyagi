@@ -79,8 +79,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
 </p>
 
-## Profile Visits
 
-![Profile Views](https://komarev.com/ghpvc/?username=raj-tyagi&color=blue)
 
 

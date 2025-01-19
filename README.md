@@ -18,40 +18,36 @@ Here are some ideas to get you started:
 📍 **Location:** Noida, India  
 📧 **Email:** [rajtyagi307@gmail.com](mailto:rajtyagi307@gmail.com)  
 
-
-
 ## 🔭 I’m currently working on ...
 - Enhancing my skills in Android application development.
 - Developing new and innovative projects using Kotlin and Python.
-<!--
-## 🌱 I’m currently learning ...
-- Advanced data structures and algorithms.
-- New frameworks and libraries to enhance my development skills.
--->
+- Exploring machine learning and deep learning applications.
+  
 ## 👯 I’m looking to collaborate on ...
 - Open-source Android applications.
-- Interesting projects that involve innovative problem-solving techniques.
+- Interesting projects that involve innovative problem-solving techniques, including those in machine learning and data science.
 
 ## 🤔 I’m looking for help with ...
 - Finding internship opportunities in software development.
 - Learning more about advanced cybersecurity practices.
+- Improving my skills in deep learning and natural language processing (NLP).
 
 ## 💬 Ask me about ...
 - Android application development.
 - Problem-solving techniques in C++ and Python.
+- Machine learning algorithms and their applications.
+- Natural Language Processing (NLP) and Deep Learning techniques.
 
 ## 📫 How to reach me:
 - Email: [rajtyagi307@gmail.com](mailto:rajtyagi307@gmail.com)
 - LinkedIn : [Raj Tyagi](https://www.linkedin.com/in/raj-tyagi-83765b21b/)
 - GitHub: [raj-tyagi](https://github.com/raj-tyagi)
 
-
 ## 😄 Pronouns:
 - He/Him
 
 ## ⚡ Fun fact:
 - I love exploring new technologies and often find myself diving deep into learning new programming languages and frameworks.
-
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-tyagi&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-tyagi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
@@ -77,8 +73,13 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  
+  <!-- Added icons for ML, Data Science, NLP, and Deep Learning -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="SpaCy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
-
-
-
-

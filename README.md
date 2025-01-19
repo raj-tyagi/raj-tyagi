@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - I love exploring new technologies and often find myself diving deep into learning new programming languages and frameworks.
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-tyagi&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-tyagi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=raj-tyagi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ## I work with:
 
@@ -77,9 +77,7 @@ Here are some ideas to get you started:
   <!-- Added icons for ML, Data Science, NLP, and Deep Learning -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spacy/spacy-original.svg" alt="SpaCy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
